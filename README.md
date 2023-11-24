@@ -34,8 +34,8 @@ Ensure you have the following installed:
    `npm start`
 5. The server will start, typically on http://localhost:3000.
 
-##Contributing
+## Contributing
 Contributions to MyFoodWeekAPI are welcome! Feel free to fork the repository, make your changes, and create a pull request.
 
-##License
+## License
 This project is licensed under the MIT License
